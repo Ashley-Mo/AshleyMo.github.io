@@ -1,0 +1,33 @@
+
+section{
+    background-color: white-space; 
+}
+.quote{
+    color:darkred;
+}
+
+.myImage{
+    float: left;
+    margin: 0 100 10px 10px;
+}
+img{
+    padding-left:500px;
+    margin: 20px;
+
+}
+h1{
+    color:darkred;
+}
+.name{
+color:purple;
+background-color:plum;
+
+padding-left:500px;
+}
+.images{
+    background-image:url("kids-coding.png") ;
+}
+p{
+    color:lightpink
+
+}
